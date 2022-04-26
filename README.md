@@ -9,3 +9,5 @@
 ## Navigating the ALPACA response
 
 ## 30 year Monte Carlo calcs
+
+## Evaluate the portfolio and emergency fund
